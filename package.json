@@ -1,0 +1,12 @@
+{
+  "name": "food-app-root",
+  "scripts": {
+    "start:all": "concurrently \"npm run start --prefix container\" \"npm run start --prefix homepage\" \"npm run start --prefix footer\" \"npm run start --prefix navbar\" \"npm run start --prefix loginpage\" \"npm run start --prefix signuppage\" \"npm run start --prefix contactpage\" \"npm run start --prefix landingpage\" \"npm run start --prefix cart\" \"npm run start --prefix resturants\" \"npm run start --prefix adminpage\" \"npm run start --prefix profilepage\""
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "concurrently": "^6.4.0",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.17"
+  }
+}

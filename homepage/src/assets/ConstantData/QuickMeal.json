@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "title": "Veg Burger",
+      "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/12/burger-recipe-1.jpg",
+      "time": "25 min",
+      "price": "₹120"
+    },
+    {
+      "id": 2,
+      "title": "Pasta Primavera",
+      "image": "https://images.services.kitchenstories.io/w7kIw5bZaJP6rgq3Zj_HOouUq_U=/3840x0/filters:quality(85)/images.kitchenstories.io/wagtailOriginalImages/R2572-picnic-final-photo-4x3.jpg",
+      "time": "20 min",
+      "price": "₹180"
+    },
+    {
+      "id": 3,
+      "title": "Salad Bowl",
+      "image": "https://images.unsplash.com/photo-1547496502-affa22d38842?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8c2FsYWR8ZW58MHx8MHx8fDA%3D",
+      "time": "15 min",
+      "price": "₹90"
+    },
+    {
+      "id": 4,
+      "title": "Chicken Wrap",
+      "image": "https://www.shutterstock.com/image-photo/fried-chicken-wraps-nuggets-fresh-600nw-2496519981.jpg",
+      "time": "30 min",
+      "price": "₹150"
+    },
+    {
+      "id": 5,
+      "title": "Margherita Pizza",
+      "image": "https://media.istockphoto.com/id/1393150881/photo/italian-pizza-margherita-with-cheese-and-tomato-sauce-on-the-board-on-grey-table-macro-close.jpg?s=612x612&w=0&k=20&c=kL0Vhg2XKBjEl__iG8sFv31WTiahdpLc3rTDtNZuD2g=",
+      "time": "28 min",
+      "price": "₹250"
+    },
+    {
+      "id": 6,
+      "title": "Grilled Sandwich",
+      "image": "https://www.bhg.com/thmb/H6G2G-KzMaxmin4WJRYHZU4-oaQ=/1244x0/filters:no_upscale():strip_icc()/grilled-cheese-sandwiches-RU197054-0026ddec06634f3eb9b1a3649a114e3d.jpg",
+      "time": "18 min",
+      "price": "₹70"
+    }
+  ]
+  
